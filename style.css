@@ -1,0 +1,134 @@
+.cover{
+    background-image: url(cover_photo.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.cover1{
+     background-image: url(cover1.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.cover2{
+    background-image: url(cover3.png);
+    height: 180px;
+    background-size: cover;
+}
+.cover3{
+    background-image: url(ourprocess.jpg);
+    height: 180px;
+    background-size: cover;
+}
+.cover4{
+    background-image: url(card4.jpg);
+    height: 400px;
+    background-size: cover;
+}
+.cover5{
+    background-image: url(cover4.jpg);
+    height: 400px;
+}
+.cover6{
+    background-image: url(topper.png);
+    height: 170px;
+}
+.a1{
+    color: red;
+}
+.ab{
+/*    margin-left: 60px;*/
+}
+.bc{
+    margin-top: 10px;
+    width: 100%;
+}
+.bc1{
+    width: 100%;
+    background:radial-gradient(rgb(255, 165, 0),rgb(255, 140, 0));
+}
+.cd{
+    width: 1px;
+    height: 150px;
+    float: left;
+    background-color: white;
+}
+.cd1{
+    width: 1px;
+    height: 150px;
+    float: left;
+    background-color: white; 
+}
+.cd2{
+    width: 1px;
+    height: 150px;
+    float: left;
+    background-color: white; 
+}
+.de{
+    margin-left: 35px;
+    margin-top:;
+    float: left;
+}
+.ef{
+    float: left;
+    margin-left: 25px;
+    margin-top: 70px;
+}
+.fg{
+    height: 200px;
+}
+.gh{
+    width: 250px;
+}
+.hi{
+    margin-left: 60px;
+    float: left;
+}
+.hi1{
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+}
+.kl{
+    float: left;
+    margin-left: 50px;
+}
+.lm{
+    float:left;
+    margin-left: 30px;
+}
+.pq{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.qr{
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.aa{
+    height: 300px;
+    width: 40%;
+    margin-left: 30%;
+}
+/*
+.bb{
+    width: 350px;
+    height: 35px;
+    border-radius: 5px;
+}
+*/
+.cc{
+    height: 20px;
+    width: 20px;
+}
+.dd{
+    margin-left: 600px;
+}
+.hhhh{
+    margin-left: 85px;
+}
+.kkkk{
+    background-color: rgba(255, 255, 255, 0.45);
+}
+.margin{
+    margin-top: 60px;
+}
